@@ -19,13 +19,13 @@ Spring Boot的特性：
 # 二、创建Spring Boot项目
 
 ## 方式一，通过Spring官网生成
-1、在浏览器上直接输入https://start.spring.io/，在Dependencies中输入Web添加web依赖(也可以什么依赖也不加，只创建最简单的Spring Boot 项目)，然后点击生成项目。
+1、在浏览器上直接输入`https://start.spring.io/` ，在Dependencies中输入Web添加web依赖(也可以什么依赖也不加，只创建最简单的Spring Boot 项目)，然后点击生成项目。
 ![这里写图片描述](images/0001.png)
 
 2、用eclipse、idea等工具打开项目，如下图：
 ![这里写图片描述](images/0002.png)
 
-3、直接运行DemoApplication里的main方法，浏览器输入`http://localhost:8080/`，便可以看到以下页面(Spring Boot默认错误页面)：
+3、直接运行DemoApplication里的main方法，浏览器输入`http://localhost:8080/` ，便可以看到以下页面(Spring Boot默认错误页面)：
 ![这里写图片描述](images/0003.png)
 
 至此，一个简单Spring Boot项目已经搞定，很简单吧。如果想进一步体验，可以继续下面步骤。
@@ -53,7 +53,7 @@ public class HelloController {
 
 ```
 
-5、重新运行DemoApplication的main方法，浏览器输入`http://localhost:8080/hello`，便可以看到如下内容：
+5、重新运行DemoApplication的main方法，浏览器输入`http://localhost:8080/hello` ，便可以看到如下内容：
 ![这里写图片描述](images/0004.png)
 
 给力吧，只需要几分钟，一个简单的web项目就完成了，而且不需要像自己手动搭建SpringMVC项目那样添加配置文件。约定优于配置，按照约定，Spring Boot可以号称零配置。
