@@ -86,6 +86,9 @@ public class HelloController {
 ![](images/03_01.png)
 
 
+如果出现中文乱码：参考 [SpringBoot自定义属性乱码](springboot_004.md)
+
+
 ## 使用前缀方式
 
 Spring Boot支持通过前缀自动将属性封装的对象中，非常适合属性比较多的情况，其实在各种启动器中也是通过这种方式获取自定义属性的，比如http编码相关的配置用前缀`spring.http.encoding`（可以参考org.springframework.boot.autoconfigure.http.HttpEncodingProperties）
