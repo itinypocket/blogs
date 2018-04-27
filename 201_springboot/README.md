@@ -2,6 +2,7 @@
 
 1. [Spring Boot教程(一)：体验Spring Boot](springboot_001.md) 
 2. [Spring Boot教程(二)：Spring Boot初体验Demo说明](springboot_002.md)
+3. [Spring Boot教程(三)：配置文件](springboot_003.md)
 
 
 
