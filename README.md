@@ -22,8 +22,9 @@
 
 ## [200_spring](200_spring/README.md)
 
+1. [spring事务不回滚throw的Exception异常的解决方法](200_spring/spring_001.md)
 
-## [300_jsp](300_jsp/README.md)
+
 
 
 
@@ -38,6 +39,12 @@
 1. [Spring Boot教程(三)：配置文件](201_springboot/springboot_003.md)
 1. [Spring Boot教程(四)：多环境配置](201_springboot/springboot_005.md)
 1. [SpringBoot自定义属性乱码](201_springboot/springboot_004.md)
+
+
+
+
+
+## [300_jsp](300_jsp/README.md)
 
 
 
