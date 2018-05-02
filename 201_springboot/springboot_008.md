@@ -2,7 +2,7 @@
 
 # 一、项目准备
 
-直接使用上个章节的源码，[Spring Boot教程(六)：Spring Boot集成mybatis](springboot_008.md)
+直接使用上个章节的源码，[Spring Boot教程(六)：Spring Boot集成mybatis](springboot_007.md)
 
 # 二、添加druid依赖
 
