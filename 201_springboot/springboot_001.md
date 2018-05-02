@@ -20,13 +20,13 @@ Spring Boot的特性：
 
 ## 方式一，通过Spring官网生成
 1、在浏览器上直接输入`https://start.spring.io/` ，在Dependencies中输入Web添加web依赖(也可以什么依赖也不加，只创建最简单的Spring Boot 项目)，然后点击生成项目。
-![这里写图片描述](images/0001.png)
+![这里写图片描述](images/01_01.png)
 
 2、用eclipse、idea等工具打开项目，如下图：
-![这里写图片描述](images/0002.png)
+![这里写图片描述](images/01_02.png)
 
 3、直接运行DemoApplication里的main方法，浏览器输入`http://localhost:8080/` ，便可以看到以下页面(Spring Boot默认错误页面)：
-![这里写图片描述](images/0003.png)
+![这里写图片描述](images/01_03.png)
 
 至此，一个简单Spring Boot项目已经搞定，很简单吧。如果想进一步体验，可以继续下面步骤。
 
@@ -54,25 +54,25 @@ public class HelloController {
 ```
 
 5、重新运行DemoApplication的main方法，浏览器输入`http://localhost:8080/hello` ，便可以看到如下内容：
-![这里写图片描述](images/0004.png)
+![这里写图片描述](images/01_04.png)
 
 给力吧，只需要几分钟，一个简单的web项目就完成了，而且不需要像自己手动搭建SpringMVC项目那样添加配置文件。约定优于配置，按照约定，Spring Boot可以号称零配置。
 
 # 方式二、通过IDE带的Spring Initializr创建
 
 1、打开idea，点击新建，选择Spring Initializr，如下：
-![这里写图片描述](images/0005.png)
+![这里写图片描述](images/01_05.png)
 
 2、默认即可，直接点击next进行下一步
-![这里写图片描述](images/0006.png)
+![这里写图片描述](images/01_06.png)
 
 3、和方式一样，我们还是只添加Web依赖
-![这里写图片描述](images/0007.png)
+![这里写图片描述](images/01_07.png)
 
 4、默认，点击finish完成。
-![这里写图片描述](images/0008.png)
+![这里写图片描述](images/01_08.png)
 
-![这里写图片描述](images/0009.png)
+![这里写图片描述](images/01_09.png)
 
 5、至此已完成项目的创建，和方式一导入的项目一样，后续步骤参考方式一即可。
 
@@ -80,10 +80,10 @@ public class HelloController {
 ## 方式三、通过普通的maven项目创建
 
 1、创建一个普通的maven项目，
-![这里写图片描述](images/0010.png)
+![这里写图片描述](images/01_10.png)
 
-![这里写图片描述](images/0011.png)
-![这里写图片描述](images/0012.png)
+![这里写图片描述](images/01_11.png)
+![这里写图片描述](images/01_12.png)
 
 2、然后在pom.xml文件中添加以下内容：
 ```
