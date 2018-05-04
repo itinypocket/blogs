@@ -10,6 +10,7 @@
 ## [001_mac](001_mac/README.md)
 
 1. [Mac使用delete键向后删除字符](001_mac/mac_001.md)
+1. [mac鼠标指针跟随很慢的问题](001_mac/mac_002.md)
 
 
 
