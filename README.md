@@ -7,6 +7,16 @@
 ## [000_tools](000_tools/README.md)
 
 
+## [001_mac](001_mac/README.md)
+
+1. [Mac使用delete键向后删除字符](001_mac/mac_001.md)
+
+
+
+
+
+
+
 
 ## [002_window](002_window/README.md)
 
