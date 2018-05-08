@@ -55,6 +55,7 @@
 1. [Spring Boot教程(八)：Spring Boot集成pagehelper分页插件](201_springboot/springboot_009.md)
 1. [Spring Boot教程(九)：Spring Boot集成Mapper4](201_springboot/springboot_010.md)
 1. [Spring Boot教程(十)：Spring Boot集成jsp](201_springboot/springboot_011.md)
+1. [Spring Boot教程(十一)：Spring Boot集成fastjson](201_springboot/springboot_012.md)
 1. [SpringBoot自定义属性乱码](201_springboot/springboot_004.md)
 
 
