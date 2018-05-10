@@ -28,7 +28,37 @@
 ## [004_maven](004_maven/README.md)
 
 
+
+
+
+## [005_idea](005_idea/README.md)
+
+
+
+
+
+
+## [006_eclipse](006_eclipse/README.md)
+
+
+
+## [007_linux](007_linux/README.md)
+
+
+
+
+
 ## [100_javase](100_javase/README.md)
+
+
+
+
+
+## [101_jdk](101_jdk/README.md)
+
+
+
+
 
 
 ## [200_spring](200_spring/README.md)
@@ -64,6 +94,17 @@
 
 
 ## [300_jsp](300_jsp/README.md)
+
+
+
+
+
+
+## [301_nginx](301_nginx/README.md)
+
+
+
+
 
 
 
