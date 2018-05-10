@@ -33,7 +33,7 @@
 
 ## [005_idea](005_idea/README.md)
 
-
+1. [使用IntelliJ IDEA自动生成serialVersionUID](005_idea/idea_001.md)
 
 
 
