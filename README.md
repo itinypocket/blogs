@@ -87,7 +87,7 @@
 1. [Spring Boot教程(十)：Spring Boot集成jsp](201_springboot/springboot_011.md)
 1. [Spring Boot教程(十一)：Spring Boot集成fastjson](201_springboot/springboot_012.md)
 1. [Spring Boot教程(十二)：Spring Boot集成热部署插件devtools](201_springboot/springboot_013.md)
-1. [Spring Boot教程(十三)：Spring Boot文件上传](springboot_014.md)
+1. [Spring Boot教程(十三)：Spring Boot文件上传](201_springboot/springboot_014.md)
 1. [SpringBoot自定义属性乱码](201_springboot/springboot_004.md)
 
 
