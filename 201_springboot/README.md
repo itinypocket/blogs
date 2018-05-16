@@ -15,6 +15,7 @@
 1. [Spring Boot教程(十一)：Spring Boot集成fastjson](springboot_012.md)
 1. [Spring Boot教程(十二)：Spring Boot集成热部署插件devtools](springboot_013.md)
 1. [Spring Boot教程(十三)：Spring Boot文件上传](springboot_014.md)
+1. [Spring Boot教程(十四)：Spring Boot集成ehcache缓存](springboot_015.md)
 1. [SpringBoot自定义属性乱码](springboot_004.md)
 
 
