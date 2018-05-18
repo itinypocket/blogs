@@ -89,6 +89,7 @@
 1. [Spring Boot教程(十二)：Spring Boot集成热部署插件devtools](201_springboot/springboot_013.md)
 1. [Spring Boot教程(十三)：Spring Boot文件上传](201_springboot/springboot_014.md)
 1. [Spring Boot教程(十四)：Spring Boot集成ehcache缓存](201_springboot/springboot_015.md)
+1. [Spring Boot教程(十五)：Spring Boot集成mybatis generator自动生成代码插件](201_springboot/springboot_016.md)
 1. [SpringBoot自定义属性乱码](201_springboot/springboot_004.md)
 
 
