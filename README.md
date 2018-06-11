@@ -35,6 +35,7 @@
 ## [005_idea](005_idea/README.md)
 
 1. [使用IntelliJ IDEA自动生成serialVersionUID](005_idea/idea_001.md)
+1. [IDEA设置终端Terminal窗口字体和大小](005_idea/idea_002.md)
 
 
 
