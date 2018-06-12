@@ -17,6 +17,7 @@
 1. [Spring Boot教程(十三)：Spring Boot文件上传](springboot_014.md)
 1. [Spring Boot教程(十四)：Spring Boot集成ehcache缓存](springboot_015.md)
 1. [Spring Boot教程(十五)：Spring Boot集成mybatis generator自动生成代码插件](springboot_016.md)
+1. [Spring Boot教程(十六)：Spring Boot集成shiro](springboot_017.md)
 1. [SpringBoot自定义属性乱码](springboot_004.md)
 
 
