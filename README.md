@@ -42,6 +42,8 @@
 
 ## [006_eclipse](006_eclipse/README.md)
 
+1. [eclipse中通过Properties Editor插件查看配置文件中Unicode内容](006_eclipse/eclipse_001.md)
+
 
 
 ## [007_linux](007_linux/README.md)
