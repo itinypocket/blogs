@@ -428,8 +428,9 @@ public class ShiroConfig {
 
 ```
 
+# 七、注意
 
-至此，我们以将shiro和ehcache集成完毕，有个需要特别注意的是，UserRealm里注入的SysUserService等service，需要延迟注入，所以都要添加@Lazy注解(如果不加需要自己延迟注入)，否则会导致该service里的@Cacheable缓存注解、@Transactional事务注解等失效。
+至此，我们以将shiro和ehcache集成完毕，有个需要特别注意的是，**UserRealm里注入的SysUserService等service，需要延迟注入，所以都要添加@Lazy注解(如果不加需要自己延迟注入)，否则会导致该service里的@Cacheable缓存注解、@Transactional事务注解等失效**。
 
 
 

@@ -24,9 +24,9 @@ Maven默认的`packing`为`jar`，所以要将其改为`war`:
 
 
 
+<br><br>
 
-
-
+参考：
 
 https://spring.io/guides/gs/convert-jar-to-war/
 
