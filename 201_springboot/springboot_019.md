@@ -434,3 +434,26 @@ public class ShiroConfig {
 
 
 
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+源码： 
+[github](https://github.com/itinypocket/spring-boot-study/tree/master/spring-boot-shiro-ehcache) 
+[码云](https://gitee.com/itinypocket/spring-boot-study/tree/master/spring-boot-shiro-ehcache)
+
+
+
+
+
+
+
+
+
