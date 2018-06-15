@@ -20,6 +20,7 @@
 1. [Spring Boot教程(十六)：Spring Boot集成shiro](springboot_017.md)
 1. [Spring Boot教程(十七)：Spring Boot导出war包部署到外部Tomcat](springboot_018.md)
 1. [Spring Boot教程(十八)：Spring Boot集成shiro ehcache](springboot_019.md)
+1. [Spring Boot教程(十九)：Spring Boot集成shiro ehcache(使用shiro的缓存管理)](springboot_020.md)
 1. [SpringBoot自定义属性乱码](springboot_004.md)
 
 
