@@ -21,6 +21,7 @@
 1. [Spring Boot教程(十七)：Spring Boot导出war包部署到外部Tomcat](springboot_018.md)
 1. [Spring Boot教程(十八)：Spring Boot集成shiro ehcache](springboot_019.md)
 1. [Spring Boot教程(十九)：Spring Boot集成shiro ehcache(使用shiro的缓存管理)](springboot_020.md)
+1. [Spring Boot教程(二十)：Spring Boot使用String Task定时任务](springboot_022.md)
 1. [SpringBoot自定义属性乱码](springboot_004.md)
 1. [Spring Boot整合shiro后导致@Cacheable、@Transactional等注解失效的问题](springboot_021.md)
 
