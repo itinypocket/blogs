@@ -99,6 +99,7 @@
 1. [Spring Boot教程(十八)：Spring Boot集成shiro ehcache](201_springboot/springboot_019.md)
 1. [Spring Boot教程(十九)：Spring Boot集成shiro ehcache(使用shiro的缓存管理)](201_springboot/springboot_020.md)
 1. [Spring Boot教程(二十)：Spring Boot使用String Task定时任务](201_springboot/springboot_022.md)
+1. [Spring Boot教程(二十一)：Spring Boot使用Quartz定时任务](201_springboot/springboot_023.md)
 1. [SpringBoot自定义属性乱码](201_springboot/springboot_004.md)
 1. [Spring Boot整合shiro后导致@Cacheable、@Transactional等注解失效的问题](201_springboot/springboot_021.md)
 
