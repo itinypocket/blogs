@@ -419,7 +419,9 @@ spring.quartz.jdbc.schema=classpath:schema/tables_mysql.sql
 
 启动服务，结果和上面内存方式是一样的，数据库存储方式和内存存储方式主要区别就是在配置文件中将Spring Boot默认的`spring.quartz.job-store-type=memory`改为`spring.quartz.job-store-type=jdbc`。
 
+## 6、cron表达式
 
+关于cron表达式，在上一篇已经讲过，参考[Spring Boot教程(二十)：Spring Boot使用String Task定时任务](springboot_022.md)
 
 
 
