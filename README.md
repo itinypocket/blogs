@@ -37,6 +37,7 @@
 1. [使用IntelliJ IDEA自动生成serialVersionUID](005_idea/idea_001.md)
 1. [IDEA设置终端Terminal窗口字体和大小](005_idea/idea_002.md)
 1. [IDEA配置快速文档和自动完成一起弹出](005_idea/idea_003.md)
+1. [IntelliJ IDEA设置显示内存指示器和设置内存大小](005_idea/idea_004.md)
 
 
 
