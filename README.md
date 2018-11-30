@@ -132,6 +132,7 @@
 
 ## [400_mysql](400_mysql/README.md)
 
+1. [使用新版本mysql的jdbc驱动时报时区问题](400_mysql/mysql_001.md)
 
 
 ## [401_oracle](401_oracle/README.md)
