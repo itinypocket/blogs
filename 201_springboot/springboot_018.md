@@ -22,6 +22,27 @@ Maven默认的`packing`为`jar`，所以要将其改为`war`:
 </dependency>
 ```
 
+# 三、修改启动类
+
+修改启动类，继承SpringBootServletInitializer并重写configure方法。如下：
+
+```java
+
+@SpringBootApplication
+public class Application extends SpringBootServletInitializer {
+
+	@Override
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(Application.class);
+	}
+
+	public static void main(String[] args) throws Exception {
+		SpringApplication.run(Application.class, args);
+	}
+
+}
+```
+
 
 
 <br><br>
