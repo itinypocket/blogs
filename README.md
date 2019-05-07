@@ -107,6 +107,7 @@
 1. [Spring Boot整合shiro后导致@Cacheable、@Transactional等注解失效的问题](201_springboot/springboot_021.md)
 1. [解决mybatis generator使用新版mysql驱动8.0版本时会生成用户下多个库里的表的问题](201_springboot/springboot_024.md)
 1. [idea使用debug模式启动非常慢](201_springboot/springboot_025.md)
+1. [idea通过main方法启动springboot项目找不到页面](201_springboot/springboot_026.md)
 
 
 
