@@ -51,7 +51,7 @@
 
 ## [007_linux](007_linux/README.md)
 
-
+1. [CentOS7忘记root密码，重置root密码](007_linux/linux_001.md)
 
 
 

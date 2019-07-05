@@ -2,6 +2,7 @@
 
 # 分类目录
 
+1. [CentOS7忘记root密码，重置root密码](linux_001.md)
 
 
 
