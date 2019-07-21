@@ -26,6 +26,7 @@
 ## [003_git](003_git/README.md)
 
 1. [CentOS7安装git仓库管理平台GitLab教程](003_git/git_001.md)
+1. [gitlab配置SMTP方式发送邮件](003_git/git_002.md)
 
 
 
