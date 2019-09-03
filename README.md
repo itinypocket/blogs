@@ -109,6 +109,7 @@
 1. [Spring Boot教程(十九)：Spring Boot集成shiro ehcache(使用shiro的缓存管理)](201_springboot/springboot_020.md)
 1. [Spring Boot教程(二十)：Spring Boot使用String Task定时任务](201_springboot/springboot_022.md)
 1. [Spring Boot教程(二十一)：Spring Boot使用Quartz定时任务](201_springboot/springboot_023.md)
+1. [Spring Boot教程(二十二)：Spring Boot集成JWT](201_springboot/springboot_029.md)
 1. [SpringBoot自定义属性乱码](201_springboot/springboot_004.md)
 1. [Spring Boot整合shiro后导致@Cacheable、@Transactional等注解失效的问题](201_springboot/springboot_021.md)
 1. [解决mybatis generator使用新版mysql驱动8.0版本时会生成用户下多个库里的表的问题](201_springboot/springboot_024.md)
